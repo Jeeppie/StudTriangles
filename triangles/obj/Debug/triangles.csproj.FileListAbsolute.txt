@@ -1,0 +1,11 @@
+C:\Users\Gp\Stud\project visual\triangles\triangles\bin\Debug\triangles.exe.config
+C:\Users\Gp\Stud\project visual\triangles\triangles\bin\Debug\triangles.exe
+C:\Users\Gp\Stud\project visual\triangles\triangles\bin\Debug\triangles.pdb
+C:\Users\Gp\Stud\project visual\triangles\triangles\obj\Debug\triangles.csproj.AssemblyReference.cache
+C:\Users\Gp\Stud\project visual\triangles\triangles\obj\Debug\triangles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gp\Stud\project visual\triangles\triangles\obj\Debug\triangles.Form1.resources
+C:\Users\Gp\Stud\project visual\triangles\triangles\obj\Debug\triangles.Properties.Resources.resources
+C:\Users\Gp\Stud\project visual\triangles\triangles\obj\Debug\triangles.csproj.GenerateResource.cache
+C:\Users\Gp\Stud\project visual\triangles\triangles\obj\Debug\triangles.csproj.CoreCompileInputs.cache
+C:\Users\Gp\Stud\project visual\triangles\triangles\obj\Debug\triangles.exe
+C:\Users\Gp\Stud\project visual\triangles\triangles\obj\Debug\triangles.pdb
